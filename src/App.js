@@ -8,7 +8,6 @@ class App extends React.Component{
   }
 
   handleIncrement = () => {
-    
     let count = this.state.clicks;
     count++;
     this.setState({
@@ -23,7 +22,6 @@ class App extends React.Component{
         clicks: count
       })
     }
-   
   }
   handleReset = () => {
     this.setState({
