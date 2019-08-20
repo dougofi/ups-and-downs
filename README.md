@@ -1,5 +1,5 @@
 ## Description 
-A simple react app to Increment, Decrement and Reset a number counter on display
+A simple react-redux app to Increment, Decrement and Reset a number counter on display
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
